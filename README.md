@@ -1,2 +1,2 @@
-# MiMo: An open source package for Microglia Motility
+# MiMo: an open source package for Microglia Motility
 
