@@ -19,7 +19,7 @@
 
 **Further Analysis**
 
-MiMo is designed to seamlessly integrate with additional scripts and analyses. Feel free to upload and combine MiMo's output results with other scripts for a more in-depth investigation into microglia motility.
+MiMo seamlessly integrates with Python scripts designed to traverse through folders and automatically detect output filenames. This streamlined process facilitates the creation and analysis of comprehensive Excel sheets containing all the results. By combining MiMo's output with the attached Python script, you can effortlessly generate correspondent results ready to plot.
 
 **Dependencies**
 
