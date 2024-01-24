@@ -25,3 +25,12 @@ MiMo is designed to seamlessly integrate with additional scripts and analyses. F
 
 - Fiji or ImageJ software
 - Necessary plugins for spectral unmixing and drift correction
+
+**Contributors**
+
+- Juan Cobos
+- Jonathan Draffin
+
+**License**
+
+This project is licensed under the MIT License - see the LICENSE.md file for details.
