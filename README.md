@@ -1,4 +1,4 @@
-# MiMo: an open source package for Microglia Motility
+# MiMo: an open-source package for Microglia Motility
 
 **MiMo** is an open-source ImageJ macro designed as part of a comprehensive package for analyzing microglia motility. This package facilitates the preprocessing and analysis of multi-channel image stacks obtained from experiments related to microglial responses.
 
